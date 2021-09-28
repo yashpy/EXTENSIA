@@ -1,0 +1,28 @@
+{
+	"manifest_version": 2,
+	"name": "Vocab NYC",
+	"author": "Yadnesh S Deshpande",
+	"version": "1.0",
+	"description": "New word in your main tab, everyday!",
+	"icons": {
+		"16": "logo128.png",
+		"48": "logo128.png",
+		"128": "logo128.png"
+	},
+	"browser_action": {
+		"default_icon": {
+		   "128": "favicon.ico",
+		   "16": "favicon.ico",
+		   "19": "favicon.ico",
+		   "24": "favicon.ico",
+		   "32": "favicon.ico",
+		   "48": "favicon.ico",
+		   "64": "favicon.ico"
+		},
+		"default_popup": "",
+		"default_title": "Vocabulary For Geeks"
+	 },
+	"chrome_url_overrides": {
+		"newtab": "index.html"
+	}
+}
