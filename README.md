@@ -25,11 +25,15 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 # Bonus Tip:
 
-I faced many libraries that need to be included to execute efficiently.
+I faced problms due to libraries that need to be included to execute project efficiently.
 Consider below links as life saver:-
 
+In development phase for npm & yarn working:
 https://stackoverflow.com/questions/43313178/react-native-error-yarn-is-not-recognized-as-an-internal-or-external-command
+
 https://stackoverflow.com/questions/20992723/npm-is-not-recognized-as-internal-or-external-command-operable-program-or-bat/47524025
+
+In deployment phase for changing ui & commiting code to github:
 https://stackoverflow.com/questions/6939974/how-i-can-change-default-icon-in-chrome-extension
 https://stackoverflow.com/questions/4181861/git-message-src-refspec-master-does-not-match-any-when-pushing-commits-in-git
 https://gist.github.com/mindplace/b4b094157d7a3be6afd2c96370d39fad
