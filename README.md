@@ -35,8 +35,11 @@ https://stackoverflow.com/questions/20992723/npm-is-not-recognized-as-internal-o
 
 In deployment phase for changing ui & commiting code to github:
 https://stackoverflow.com/questions/6939974/how-i-can-change-default-icon-in-chrome-extension
+
 https://stackoverflow.com/questions/4181861/git-message-src-refspec-master-does-not-match-any-when-pushing-commits-in-git
+
 https://gist.github.com/mindplace/b4b094157d7a3be6afd2c96370d39fad
+
 https://stackoverflow.com/questions/4630704/git-receiving-fatal-not-a-git-repository-when-attempting-to-remote-add-a-git
 
  
