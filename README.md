@@ -38,7 +38,8 @@ https://stackoverflow.com/questions/43313178/react-native-error-yarn-is-not-reco
 
 https://stackoverflow.com/questions/20992723/npm-is-not-recognized-as-internal-or-external-command-operable-program-or-bat/47524025
 
-In deployment phase for changing ui & commiting code to github:                                                                                                                           
+In deployment phase for changing ui & commiting code to github:
+
 https://stackoverflow.com/questions/6939974/how-i-can-change-default-icon-in-chrome-extension
 
 https://stackoverflow.com/questions/4181861/git-message-src-refspec-master-does-not-match-any-when-pushing-commits-in-git
