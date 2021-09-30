@@ -28,6 +28,9 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 I faced problms due to libraries that need to be included to execute project efficiently.
 Consider below links as life saver:-
 
+Basics:
+https://stackoverflow.com/questions/4630704/git-receiving-fatal-not-a-git-repository-when-attempting-to-remote-add-a-git
+
 In development phase for npm & yarn working:
 https://stackoverflow.com/questions/43313178/react-native-error-yarn-is-not-recognized-as-an-internal-or-external-command
 
