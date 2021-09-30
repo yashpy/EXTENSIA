@@ -32,6 +32,10 @@ Basics:
 
 https://stackoverflow.com/questions/4630704/git-receiving-fatal-not-a-git-repository-when-attempting-to-remote-add-a-git
 
+https://stackoverflow.com/questions/5509543/how-do-i-properly-force-a-git-push
+
+https://stevenmortimer.com/5-steps-to-change-github-default-branch-from-master-to-main/
+
 In development phase for npm & yarn working:
 
 https://stackoverflow.com/questions/43313178/react-native-error-yarn-is-not-recognized-as-an-internal-or-external-command
